@@ -2,8 +2,7 @@
 
 📖 Studying Computer Science and Mathematics at The University of Manchester, United Kingdom <br/>
 
-[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotehc)](https://github.com/elliotehc/github-readme-stats)
-
+![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotehc&show_icons=true&theme=radical)
 <!--
 **elliotehc/elliotehc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
